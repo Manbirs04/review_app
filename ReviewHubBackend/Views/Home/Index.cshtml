@@ -1,8 +1,15 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿@* Views/Home/Index.cshtml *@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Home Page</title>
+</head>
+<body>
+    <h1>Welcome to ReviewHub!</h1>
+    <p>Navigate to your desired page below:</p>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+    <a href="@Url.Action("Login", "Auth")" class="btn btn-primary">Login</a>
+    <a href="@Url.Action("Register", "Auth")" class="btn btn-secondary">Register</a>
+</body>
+</html>

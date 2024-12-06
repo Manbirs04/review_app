@@ -12,11 +12,19 @@ namespace ReviewHubBackend.Data
             _context = context;
         }
 
+        // Retrieve all users
         public async Task<List<User>> GetAllUsersAsync()
         {
             return await _context.Users.ToListAsync();
         }
 
+        // Retrieve user by ID
+        public async Task<User> GetUserByIdAsync(int id)
+        {
+            return await _context.Users.FirstOrDefaultAsync(u => u.UserId == id);
+        }
+
+        // Delete a user by ID
         public async Task<bool> DeleteUserAsync(int id)
         {
             var user = await _context.Users.FindAsync(id);
@@ -27,11 +35,25 @@ namespace ReviewHubBackend.Data
             return true;
         }
 
+        // Retrieve all reviews
         public async Task<List<Review>> GetAllReviewsAsync()
         {
-            return await _context.Reviews.ToListAsync();
+            return await _context.Reviews
+                .Include(r => r.User)
+                .Include(r => r.Category)
+                .ToListAsync();
         }
 
+        // Retrieve review by ID
+        public async Task<Review> GetReviewByIdAsync(int id)
+        {
+            return await _context.Reviews
+                .Include(r => r.User)
+                .Include(r => r.Category)
+                .FirstOrDefaultAsync(r => r.ReviewId == id);
+        }
+
+        // Delete a review by ID
         public async Task<bool> DeleteReviewAsync(int id)
         {
             var review = await _context.Reviews.FindAsync(id);
@@ -42,9 +64,10 @@ namespace ReviewHubBackend.Data
             return true;
         }
 
-        internal async Task GetCategoryByNameAsync(string categoryName)
+        // Retrieve category by name
+        public async Task<Category> GetCategoryByNameAsync(string categoryName)
         {
-            throw new NotImplementedException();
+            return await _context.Categories.FirstOrDefaultAsync(c => c.CategoryName == categoryName);
         }
     }
 }

@@ -15,12 +15,12 @@ namespace ReviewHubBackend.Controllers
 
         public IActionResult Index()
         {
-            return Content("Welcome to ReviewHub API! Use API endpoints to interact.");
+            return View();
         }
 
         public IActionResult Privacy()
         {
-            return Content("This is the privacy policy page.");
+            return View();
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

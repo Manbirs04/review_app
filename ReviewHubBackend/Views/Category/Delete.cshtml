@@ -1,0 +1,13 @@
+﻿@model ReviewHubBackend.Models.Category
+
+<h1>Delete Category</h1>
+<p>Are you sure you want to delete the following category?</p>
+
+<div>
+    <p><strong>@Model.CategoryName</strong></p>
+    <form asp-action="DeleteConfirmed" method="post">
+        <input type="hidden" asp-for="CategoryId" />
+        <button type="submit" class="btn btn-danger">Yes, Delete</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>

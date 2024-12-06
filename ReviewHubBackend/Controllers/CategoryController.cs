@@ -7,9 +7,7 @@ using System.Threading.Tasks;
 
 namespace ReviewHubBackend.Controllers
 {
-    [ApiController]
-    [Route("api/[controller]")]
-    public class CategoryController : ControllerBase
+    public class CategoryController : Controller
     {
         private readonly ReviewHubDbContext _context;
 
@@ -18,61 +16,69 @@ namespace ReviewHubBackend.Controllers
             _context = context;
         }
 
-        // GET: api/category
-        [HttpGet]
-        public async Task<ActionResult<IEnumerable<Category>>> GetAllCategories()
+        // Display all categories
+        public async Task<IActionResult> Index()
         {
             var categories = await _context.Categories.ToListAsync();
-            if (categories.Count == 0)
-            {
-                return NotFound("No categories found.");
-            }
-
-            return Ok(categories);
+            return View(categories); // Pass categories to the Index view
         }
 
-        // POST: api/category
+        // Display form for adding a new category
+        public IActionResult Add()
+        {
+            return View();
+        }
+
+        // Handle form submission for adding a new category
         [HttpPost]
-        public async Task<ActionResult<Category>> AddCategory([FromBody] Category category)
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Add(Category category)
         {
-            if (string.IsNullOrEmpty(category.CategoryName))
+            if (ModelState.IsValid)
             {
-                return BadRequest("Category name cannot be empty.");
+                _context.Categories.Add(category);
+                await _context.SaveChangesAsync();
+                TempData["Success"] = "Category added successfully!";
+                return RedirectToAction(nameof(Index));
             }
-
-            _context.Categories.Add(category);
-            await _context.SaveChangesAsync();
-
-            return CreatedAtAction(nameof(GetAllCategories), new { id = category.CategoryId }, category);
+            return View(category);
         }
 
-        // GET: api/category/{id}
-        [HttpGet("{id:int}")]
-        public async Task<ActionResult<Category>> GetCategoryById(int id)
+        // Display details of a specific category
+        public async Task<IActionResult> Details(int id)
         {
             var category = await _context.Categories.FindAsync(id);
             if (category == null)
             {
-                return NotFound($"Category with ID {id} not found.");
+                return NotFound();
             }
-
-            return Ok(category);
+            return View(category);
         }
 
-        // DELETE: api/category/{id}
-        [HttpDelete("{id:int}")]
-        public async Task<IActionResult> DeleteCategory(int id)
+        // Display form for deleting a category
+        public async Task<IActionResult> Delete(int id)
         {
             var category = await _context.Categories.FindAsync(id);
             if (category == null)
             {
-                return NotFound($"Category with ID {id} not found.");
+                return NotFound();
             }
+            return View(category);
+        }
 
-            _context.Categories.Remove(category);
-            await _context.SaveChangesAsync();
-
-            return NoContent();
+        // Handle form submission for deleting a category
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> DeleteConfirmed(int id)
+        {
+            var category = await _context.Categories.FindAsync(id);
+            if (category != null)
+            {
+                _context.Categories.Remove(category);
+                await _context.SaveChangesAsync();
+                TempData["Success"] = "Category deleted successfully!";
+            }
+            return RedirectToAction(nameof(Index));
         }
     }
 }
