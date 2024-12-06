@@ -1,0 +1,677 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\data\\reviewhubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:data\\reviewhubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\reviewhub-frontend\\src\\utils\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:reviewhub-frontend\\src\\utils\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\reviewhubbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:reviewhubbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\reviewhub-frontend\\src\\components\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:reviewhub-frontend\\src\\components\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\reviewhub-frontend\\src\\styles\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:reviewhub-frontend\\src\\styles\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\reviewhub-frontend\\src\\components\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:reviewhub-frontend\\src\\components\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\reviewhub-frontend\\src\\styles\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:reviewhub-frontend\\src\\styles\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\reviewhub-frontend\\src\\components\\admindashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:reviewhub-frontend\\src\\components\\admindashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\reviewhub-frontend\\src\\components\\reviewform.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:reviewhub-frontend\\src\\components\\reviewform.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\reviewhub-frontend\\src\\components\\reviewlist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:reviewhub-frontend\\src\\components\\reviewlist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\reviewhub-frontend\\src\\components\\userdashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:reviewhub-frontend\\src\\components\\userdashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\reviewhub-frontend\\src\\components\\navbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:reviewhub-frontend\\src\\components\\navbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\reviewhub-frontend\\src\\styles\\admindashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:reviewhub-frontend\\src\\styles\\admindashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\reviewhub-frontend\\src\\styles\\reviewform.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:reviewhub-frontend\\src\\styles\\reviewform.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\reviewhub-frontend\\src\\styles\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:reviewhub-frontend\\src\\styles\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\reviewhub-frontend\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:reviewhub-frontend\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\reviewhub-frontend\\src\\styles\\globalstyles.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:reviewhub-frontend\\src\\styles\\globalstyles.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Migrations\\20241202212646_UpdateUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241202212646_UpdateUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Migrations\\20241202212430_UpdateUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241202212430_UpdateUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\reviewhub-frontend\\src\\logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:reviewhub-frontend\\src\\logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\data\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:data\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Migrations\\20241125005411_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241125005411_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Migrations\\20241125004307_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241125004307_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|c:\\users\\manbi\\source\\repos\\reviewhubbackend\\reviewhub-frontend\\src\\app.test.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{384FE656-CA2E-4A78-9023-D53BB20D4AC7}|ReviewHubBackend.csproj|solutionrelative:reviewhub-frontend\\src\\app.test.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:15:00.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "api.js",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\utils\\api.js",
+              "RelativeDocumentMoniker": "reviewhub-frontend\\src\\utils\\api.js",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\utils\\api.js",
+              "RelativeToolTip": "reviewhub-frontend\\src\\utils\\api.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-03T12:48:21.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewHubDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Data\\ReviewHubDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ReviewHubDbContext.cs",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Data\\ReviewHubDbContext.cs",
+              "RelativeToolTip": "Data\\ReviewHubDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:42:30.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T17:14:34.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T17:14:40.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T20:13:21.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReviewHubBackend.csproj",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\ReviewHubBackend.csproj",
+              "RelativeDocumentMoniker": "ReviewHubBackend.csproj",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\ReviewHubBackend.csproj",
+              "RelativeToolTip": "ReviewHubBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T17:17:53.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.js",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\components\\Register.js",
+              "RelativeDocumentMoniker": "reviewhub-frontend\\src\\components\\Register.js",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\components\\Register.js",
+              "RelativeToolTip": "reviewhub-frontend\\src\\components\\Register.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-24T17:32:27.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:19:41.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.css",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\styles\\Login.css",
+              "RelativeDocumentMoniker": "reviewhub-frontend\\src\\styles\\Login.css",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\styles\\Login.css",
+              "RelativeToolTip": "reviewhub-frontend\\src\\styles\\Login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T13:39:33.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.js",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\components\\Login.js",
+              "RelativeDocumentMoniker": "reviewhub-frontend\\src\\components\\Login.js",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\components\\Login.js",
+              "RelativeToolTip": "reviewhub-frontend\\src\\components\\Login.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-24T17:31:57.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.css",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\styles\\Register.css",
+              "RelativeDocumentMoniker": "reviewhub-frontend\\src\\styles\\Register.css",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\styles\\Register.css",
+              "RelativeToolTip": "reviewhub-frontend\\src\\styles\\Register.css",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-24T19:43:45.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminDashboard.js",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\components\\AdminDashboard.js",
+              "RelativeDocumentMoniker": "reviewhub-frontend\\src\\components\\AdminDashboard.js",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\components\\AdminDashboard.js",
+              "RelativeToolTip": "reviewhub-frontend\\src\\components\\AdminDashboard.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-02T20:14:29.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReviewForm.js",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\components\\ReviewForm.js",
+              "RelativeDocumentMoniker": "reviewhub-frontend\\src\\components\\ReviewForm.js",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\components\\ReviewForm.js",
+              "RelativeToolTip": "reviewhub-frontend\\src\\components\\ReviewForm.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-25T00:12:49.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserDashboard.js",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\components\\UserDashboard.js",
+              "RelativeDocumentMoniker": "reviewhub-frontend\\src\\components\\UserDashboard.js",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\components\\UserDashboard.js",
+              "RelativeToolTip": "reviewhub-frontend\\src\\components\\UserDashboard.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-03T12:42:50.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReviewList.js",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\components\\ReviewList.js",
+              "RelativeDocumentMoniker": "reviewhub-frontend\\src\\components\\ReviewList.js",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\components\\ReviewList.js",
+              "RelativeToolTip": "reviewhub-frontend\\src\\components\\ReviewList.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-03T12:43:30.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Navbar.js",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\components\\Navbar.js",
+              "RelativeDocumentMoniker": "reviewhub-frontend\\src\\components\\Navbar.js",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\components\\Navbar.js",
+              "RelativeToolTip": "reviewhub-frontend\\src\\components\\Navbar.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-03T12:45:51.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\DTOs\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\DTOs\\UserRegisterDto.cs",
+              "RelativeToolTip": "DTOs\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:52:32.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "Controllers\\ReviewController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAwwJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:07:30.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminDashboard.css",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\styles\\AdminDashboard.css",
+              "RelativeDocumentMoniker": "reviewhub-frontend\\src\\styles\\AdminDashboard.css",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\styles\\AdminDashboard.css",
+              "RelativeToolTip": "reviewhub-frontend\\src\\styles\\AdminDashboard.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T14:00:29.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GlobalStyles.js",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\styles\\GlobalStyles.js",
+              "RelativeDocumentMoniker": "reviewhub-frontend\\src\\styles\\GlobalStyles.js",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\styles\\GlobalStyles.js",
+              "RelativeToolTip": "reviewhub-frontend\\src\\styles\\GlobalStyles.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-03T12:46:22.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\App.js",
+              "RelativeDocumentMoniker": "reviewhub-frontend\\src\\App.js",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\App.js",
+              "RelativeToolTip": "reviewhub-frontend\\src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-24T17:32:44.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Navbar.css",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\styles\\Navbar.css",
+              "RelativeDocumentMoniker": "reviewhub-frontend\\src\\styles\\Navbar.css",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\styles\\Navbar.css",
+              "RelativeToolTip": "reviewhub-frontend\\src\\styles\\Navbar.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T13:29:53.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReviewForm.css",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\styles\\ReviewForm.css",
+              "RelativeDocumentMoniker": "reviewhub-frontend\\src\\styles\\ReviewForm.css",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\styles\\ReviewForm.css",
+              "RelativeToolTip": "reviewhub-frontend\\src\\styles\\ReviewForm.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T13:18:01.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:10:50.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:41:54.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\DTOs\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ReviewDto.cs",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\DTOs\\ReviewDto.cs",
+              "RelativeToolTip": "DTOs\\ReviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:05:55.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:12:40.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:12:40.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Models\\Review.cs",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Models\\Review.cs",
+              "RelativeToolTip": "Models\\Review.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T23:53:44.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADwv04AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:16:10.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:30:27.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\DTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\DTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "DTOs\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:53:41.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241202212646_UpdateUserTable.cs",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Migrations\\20241202212646_UpdateUserTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241202212646_UpdateUserTable.cs",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Migrations\\20241202212646_UpdateUserTable.cs",
+              "RelativeToolTip": "Migrations\\20241202212646_UpdateUserTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:26:46.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241202212430_UpdateUserTable.cs",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Migrations\\20241202212430_UpdateUserTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241202212430_UpdateUserTable.cs",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Migrations\\20241202212430_UpdateUserTable.cs",
+              "RelativeToolTip": "Migrations\\20241202212430_UpdateUserTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:24:30.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "logo.svg",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\logo.svg",
+              "RelativeDocumentMoniker": "reviewhub-frontend\\src\\logo.svg",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\logo.svg",
+              "RelativeToolTip": "reviewhub-frontend\\src\\logo.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-02T21:22:00.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Data\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "Data\\ReviewRepository.cs",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Data\\ReviewRepository.cs",
+              "RelativeToolTip": "Data\\ReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:06:49.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Data\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Data\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Data\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "Data\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T23:47:26.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20241125005411_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Migrations\\20241125005411_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241125005411_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Migrations\\20241125005411_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241125005411_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:54:13.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20241125004307_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Migrations\\20241125004307_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241125004307_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\Migrations\\20241125004307_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241125004307_InitialCreate.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:43:10.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "App.test.js",
+              "DocumentMoniker": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\App.test.js",
+              "RelativeDocumentMoniker": "reviewhub-frontend\\src\\App.test.js",
+              "ToolTip": "C:\\Users\\manbi\\source\\repos\\ReviewHubBackend\\reviewhub-frontend\\src\\App.test.js",
+              "RelativeToolTip": "reviewhub-frontend\\src\\App.test.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-24T21:23:55.761Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
